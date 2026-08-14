@@ -2,7 +2,7 @@
 
 **Your Invoice Maker** হলো একটি modern ও user-friendly web-based invoice maker, যার মাধ্যমে সহজেই professional invoice তৈরি, preview এবং share করা যায়।
 
-🌐 **Live Website:** [Your Invoice Maker](YOUR_LIVE_URL_HERE)
+🌐 **Live Website:** [Your Invoice Maker](https://yourinvoicemaker.lovable.app/)
 
 ---
 
@@ -36,41 +36,11 @@ Lovable-এর AI-assisted development workflow ব্যবহার করে 
 
 ---
 
-## 🚀 Run Locally
-
-Repository clone করো:
-
-```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
-```
-
-Project folder-এ যাও:
-
-```bash
-cd yourinvoicemaker
-```
-
-Dependencies install করো:
-
-```bash
-npm install
-```
-
-Development server চালু করো:
-
-```bash
-npm run dev
-```
-
-তারপর terminal-এ দেখানো local URL browser-এ open করো।
-
----
-
 ## 👨‍💻 Developer
 
 **Nahid Mahmud Saron**
 
-Designed, developed and maintained with ❤️ by **Nahid Mahmud Saron**, with the help of **Lovable AI and Vibe Coding**.
+Designed, developed and maintained by **Saron**, with the help of **Lovable AI and Vibe Coding**.
 
 ---
 
