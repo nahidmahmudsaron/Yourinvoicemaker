@@ -1,146 +1,91 @@
-# yourinvoicemaker
+# 🧾 Your Invoice Maker
 
-Build a modern, professional and responsive Invoice Generator SaaS called InvoicePro.
+**Your Invoice Maker** হলো একটি modern ও user-friendly web-based invoice maker, যার মাধ্যমে সহজেই professional invoice তৈরি, preview এবং share করা যায়।
 
-Design
+🌐 **Live Website:** [Your Invoice Maker](YOUR_LIVE_URL_HERE)
 
-Use a clean premium SaaS UI:
+---
 
-White cards, light gray background
+## ✨ Features
 
-Blue/indigo primary color
+* 🧾 Professional invoice তৈরি
+* 👀 Live invoice preview
+* 🎨 Business & branding information যোগ করা
+* 📄 Invoice PDF হিসেবে download
+* 🔗 Shareable invoice
+* 📱 Fully responsive design
+* ⚡ Clean & modern user interface
 
-Modern typography, Lucide icons
+---
 
-Subtle shadows, borders and animations
+## 🛠️ Technologies
 
-Fully responsive
+* React
+* TypeScript
+* Vite
+* Tailwind CSS
+* Lucide Icons
 
-Light/Dark mode
+---
 
-Pages
+## 🤖 Development
 
-Landing Page
+এই projectটি **Lovable** ব্যবহার করে **Vibe Coding** approach-এর মাধ্যমে তৈরি করা হয়েছে।
 
-Login / Signup
+Lovable-এর AI-assisted development workflow ব্যবহার করে project-এর UI, components এবং functionality তৈরি ও refine করা হয়েছে।
 
-Dashboard
+---
 
-Create Invoice
+## 🚀 Run Locally
 
-Invoices
+Repository clone করো:
 
-Customers
+```bash
+git clone YOUR_GITHUB_REPOSITORY_URL
+```
 
-Business Profile
+Project folder-এ যাও:
 
-Settings
+```bash
+cd yourinvoicemaker
+```
 
-Public Invoice View
+Dependencies install করো:
 
-Dashboard
+```bash
+npm install
+```
 
-Show:
+Development server চালু করো:
 
-Total Invoices
-
-Paid
-
-Pending
-
-Overdue
-
-Recent invoices
-
-Search & filters
-
-Create Invoice button
-
-Invoice Builder
-
-Create a two-column layout:
-
-Form:
-
-Business & customer information
-
-Invoice number/date/due date
-
-Currency
-
-Dynamic items
-
-Quantity & price
-
-Tax, discount & shipping
-
-Notes & terms
-
-Preview:
-Show a professional invoice that updates live as the user edits the form.
-
-Automatically calculate subtotal, tax, discount and total.
-
-Features
-
-3–4 invoice templates
-
-Custom accent color
-
-Save/Edit/Delete/Duplicate invoices
-
-Invoice status: Draft, Pending, Paid, Overdue
-
-Download PDF
-
-Print
-
-Share public invoice link
-
-Customer management
-
-Business profile
-
-Search & filtering
-
-Toast notifications and proper loading/error states
-
-Backend
-
-Use Supabase for authentication and PostgreSQL database.
-
-Tables:
-profiles, business_profiles, customers, invoices, invoice_items
-
-Use Row Level Security so users can only access their own data.
-
-Goal
-
-Make the main workflow extremely simple:
-
-Create → Fill → Add Items → Preview → Save → Download PDF
-
-The final result should look like a polished real-world SaaS product, not a basic demo.
-
-This project was built with [Lovable](https://lovable.dev).
-
-**Live app**: https://yourinvoicemaker.lovable.app
-
-## Build with Lovable
-
-Continue developing this project in the [Lovable editor](https://lovable.dev/projects/11666a70-0ccc-4e69-94ee-fee117c7a0ff).
-
-- **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: every change made in Lovable is committed straight to this repository.
-- **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back into Lovable, ready for your next prompt.
-
-## Development
-
-Prefer working locally? You need Node.js and npm — [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
-
-```sh
-git clone <this-repository-url>
-cd <repository-name>
-npm i
+```bash
 npm run dev
 ```
+
+তারপর terminal-এ দেখানো local URL browser-এ open করো।
+
+---
+
+## 👨‍💻 Developer
+
+**Nahid Mahmud Saron**
+
+Designed, developed and maintained with ❤️ by **Nahid Mahmud Saron**, with the help of **Lovable AI and Vibe Coding**.
+
+---
+
+## 📌 Project Status
+
+🚧 **Currently in Development**
+
+এই projectটি নিয়মিত update এবং improvement-এর মাধ্যমে আরও উন্নত করা হচ্ছে।
+
+---
+
+## 📄 Copyright
+
+© 2026 **Nahid Mahmud Saron**. All Rights Reserved.
+
+**Your Invoice Maker** এবং এর original source code, design, content ও branding-এর অধিকার **Nahid Mahmud Saron**-এর।
+
+এই project-এর কোনো অংশ অনুমতি ছাড়া commercial use, redistribution বা reproduction করা যাবে না।
