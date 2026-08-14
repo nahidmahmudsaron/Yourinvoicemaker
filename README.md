@@ -1,6 +1,6 @@
 # 🧾 Your Invoice Maker
 
-**Your Invoice Maker** হলো একটি modern ও user-friendly web-based invoice maker, যার মাধ্যমে সহজেই professional invoice তৈরি, preview এবং share করা যায়।
+**Your Invoice Maker** হলো একটি modern ও user-friendly web-based invoice maker, যার মাধ্যমে সহজেই professional invoice তৈরি, pdf download, preview এবং share করা যায়।
 
 🌐 **Live Website:** [Your Invoice Maker](https://yourinvoicemaker.lovable.app/)
 
